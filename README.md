@@ -1,2 +1,2 @@
 # juancsherrera.github.io
-Personal Webpage (juancsherrera.com). Redirects Here.
+This is the GitHUb for my (under construction) personal webpage (juancsherrera.com). The link redirects Here.
