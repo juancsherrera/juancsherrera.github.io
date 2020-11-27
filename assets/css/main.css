@@ -2914,7 +2914,7 @@
 			-ms-transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			transition: opacity 1.5s ease-in-out, visibility 1.5s;
 			content: '';
-			background-image: url(https://github.com/juancsherrera/juancsherrera.github.io/raw/master/lightTW.JPG);
+			background-image: url("https://github.com/juancsherrera/juancsherrera.github.io/raw/master/images/lightTW.JPG");
 			background-attachment: fixed;
 			background-position: center;
 			background-repeat: no-repeat;
